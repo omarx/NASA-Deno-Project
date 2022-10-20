@@ -1,6 +1,6 @@
 # Deno-Nasa-Project
 
-This project is using Opine an third party module very similar to Node.jS express server
+This project is using Opine an third party module very similar to Node.js express server
 ## Getting Start with NASA DENO Project
 
 This project was converted from ZTM [Zero To Mastery](https://zerotomastery.io/courses/learn-node-js/) node project using their React Frontend
