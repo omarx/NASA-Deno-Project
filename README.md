@@ -20,7 +20,8 @@ Security cmds needed to run  `deno run server.ts`
 --allow-net
 
 ## Notes
+
 Create a .env file and use PORT=Port# and add 
-MONGO_URL=mongodb+srv://<username>:<password>@cluster0.1lrvw.mongodb.net/?authMechanism=SCRAM-SHA-1
-to run the server and connect to your Mongo DB Cloud Atlas
-This an example use your own MONGO_URL from cloud atlas
+MONGO_URL=mongodb+srv://<username>:<password>@cluster0.1lrvw.mongodb.net/?authMechanism=SCRAM-SHA-1\
+It will be different for you but should be similar the only parts\
+that should be different would be your username password and cluster info it should follow the same syntax
