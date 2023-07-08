@@ -11,7 +11,7 @@ In this project you can run:
 
 ### `Denon run -A server.ts or Deno run -A server.ts`
 
-Runs app and ignores allow security features of Deno
+Runs app and ignores security features of Deno
 
 Security cmds needed to run  `deno run server.ts`
 
